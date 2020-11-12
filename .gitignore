@@ -1,0 +1,18 @@
+
+#　ディレクトリ
+data
+weights
+
+# ファイル拡張子
+*.jpg
+*.jpeg
+*.bmp
+*.png
+*.pgm
+*.tiff
+*.gif
+
+*.xml
+*.pth
+*.csv
+
